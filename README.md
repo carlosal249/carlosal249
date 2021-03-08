@@ -27,4 +27,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 [website]: https://carlosal249.github.io/
-[linkedin]: www.linkedin.com/in/carlosalbertoochner
+
+[linkedin]: https://www.linkedin.com/in/carlosalbertoochner/
