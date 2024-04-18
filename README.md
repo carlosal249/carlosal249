@@ -1,10 +1,14 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working with python for DataScience
-- 🌱 I’m currently learning Design and PHP
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I'm a Senior Data Scientist with over five years of experience in unraveling the complexities of data to drive innovation and make informed decisions. 
+
+- 🧠 Currently, I am deeply engrossed in the fascinating world of Generative AI (GenAI). 
+My focus is on exploring how GenAI can transform industries by enabling more creative, efficient, and intelligent solutions. 
+This emerging field not only piques my curiosity but also aligns with my skills in machine learning, data analysis, and strategic implementation of AI technologies.
+
+- 🎨 On a parallel path, I am actively learning Design. 
+This new venture is all about enhancing my ability to blend aesthetics with functionality, aiming to improve user experience and engagement through thoughtful design principles. 
 
 ### Connect with me:
 
